@@ -1,0 +1,12 @@
+[general]
+name=AirSpace
+qgisMinimumVersion=3.0
+author=Noah Ray
+email=nray@coffmanassociates.com
+description=A QGIS plugin to Airspace height against airspace regulations.
+version=1.0
+category=Analysis
+icon=icon.png
+
+[files]
+icon=icon.png
